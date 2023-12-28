@@ -107,11 +107,12 @@ if _name_ == '_main_':
 
 Insert image here
 
+![1](https://github.com/Arun2005-create/mobilerobot-openloopcontrol/assets/138849356/8cbad991-afbf-4f10-96f9-6992c1d4442d)
 
-<br/>
-<br/>
-<br/>
-<br/>
+![2](https://github.com/Arun2005-create/mobilerobot-openloopcontrol/assets/138849356/7f9680e3-477d-4992-a722-a121d057ff98)
+
+![3](https://github.com/Arun2005-create/mobilerobot-openloopcontrol/assets/138849356/978ee60b-0106-4470-96ae-1fe0d3012180)
+
 
 ## MobileRobot Movement Video:
 
